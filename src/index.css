@@ -1,0 +1,11 @@
+.gif-container {
+    display: flex;
+  }
+  
+  .gif-container-img {
+    flex: 1;
+    width: 150px;
+    height: 150px;
+    margin: 5px;
+    /* You can add more styling if needed (e.g., margin, padding) */
+  }
